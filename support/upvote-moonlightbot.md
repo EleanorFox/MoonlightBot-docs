@@ -10,7 +10,7 @@ By upvoting MoonlightBot on bot listing sites, you help us reach a wider audienc
 
 ## Perks/Rewards for voting
 
-1. For your first ever vote or after a 30 consecutive days of voting, you will receive one free week of [MoonlightBot Premium](premium.md). The bot will DM you with a button to claim it. By having voted in the past 72 hours, your max durations will be doubled. ![Premium Successful Activation Message](../.gitbook\assets\PremiumSuccessfulActivationMessage.png)
+1. For your first ever vote or after a 30 consecutive days of voting, you will receive one free week of [MoonlightBot Premium](premium.md). The bot will DM you with a button to claim it. By having voted in the past 72 hours, your max durations will be doubled. ![Premium Successful Activation Message](/.gitbook\assets\PremiumSuccessfulActivationMessage.png)
 2. Passing the 100 votes mark will instantly see your status unlocked! Being a Supporter has become more rewarding than ever before: it gives you the privilege to make an appeal and enjoy 48 hours of Premium membership for each qualifying vote.
 3. Every milestone is made public, enabling everyone to cheer you on along the way. Don’t stop here, vote for MoonlightBot right away!
 
