@@ -10,7 +10,7 @@ By upvoting MoonlightBot on bot listing sites, you help us reach a wider audienc
 
 ## Perks/Rewards for voting
 
-1. Every time you vote, your [maximum allowed duration](miscellaneous-commands\check-duration.md) will be **doubled** for the next three days! This multiplier is calculated after all additive multipliers (ex. the bonus for having a Premium subscription)
+1. Every time you vote, your [maximum allowed duration](support\miscellaneous-commands\check-duration.md) will be **doubled** for the next three days! This multiplier is calculated after all additive multipliers (ex. the bonus for having a Premium subscription)
 2. For your first ever vote, you will be able to claim a **[basic tier MoonlightBot Premium subscription](support\premium.md)**. It's this inexpensive and easy!
   
   You can claim more free subscriptions by voting for 30 days in a row in case one expires. We keep track of consecutive days you vote in, and send you a message for when you can claim a subscription.
