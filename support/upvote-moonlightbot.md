@@ -10,9 +10,16 @@ By upvoting MoonlightBot on bot listing sites, you help us reach a wider audienc
 
 ## Perks/Rewards for voting
 
-1. For your first ever vote or after a 30 consecutive days of voting, you will receive one free week of [MoonlightBot Premium](premium.md). The bot will DM you with a button to claim it. By having voted in the past 72 hours, your max durations will be doubled. ![Premium Successful Activation Message](</.gitbook\assets\PremiumSuccessfulActivationMessage.png>)
-2. Passing the 100 votes mark will instantly see your status unlocked! Being a Supporter has become more rewarding than ever before: it gives you the privilege to make an appeal and enjoy 48 hours of Premium membership for each qualifying vote.
-3. Every milestone is made public, enabling everyone to cheer you on along the way. Don’t stop here, vote for MoonlightBot right away!
+1. Every time you vote, your [maximum allowed duration](miscellaneous-commands\check-duration.md) will be **doubled** for the next three days! This multiplier is calculated after all additive multipliers (ex. the bonus for having a Premium subscription)
+2. For your first ever vote, you will be able to claim a **[basic tier MoonlightBot Premium subscription](support\premium.md)**. It's this inexpensive and easy!
+  
+  You can claim more free subscriptions by voting for 30 days in a row in case one expires. We keep track of consecutive days you vote in, and send you a message for when you can claim a subscription.
+  
+  **All active vote-obtained subscriptions are prolonged by two days every time you vote.**
+3. Once you voted for 100 times, you will receive the **Supporter** role in the Moonlight Labs server. This has overlapping benefits with the Premium role, such as a special color and displayed high up in the member list along with access to some channels like the developer's diary and extra permissions but is not subject to time-based expiration.
+4. Votes contribute to [sustaining your temporary actions](link to faq about sustain mechanic). It's a nice way to continue supporting the work we do if you cannot afford Premium subscriptions, or dedicate time to participate to our [volunteer programs](link to volunteer opportunities page).
+5. All votes and rewards earned are recorded
+6. Upvoting MoonlightBot is requested in order to [appeal restrictions to your account](link to section 11 of aup) or withdrawing some types of volunteer applications if reviewers already assisted you with them. After all, if you didn't mean to do anything bad, you can probably do something good, right?
 
 {% hint style="warning" %}
 Ensure you allow Direct Messages from a mutual server so MoonlightBot can message you, otherwise you won't be able to claim your free week of Premium!
